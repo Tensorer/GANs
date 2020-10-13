@@ -1,7 +1,7 @@
 Project title: "Data Mapping with Generative Adversarial Networks"
 - This project mainly uses TensorFlow 2 for network modeling. 
 - To run the code, please first download all the files and create a Conda environment based on "GANs_environment.yaml". 
-
+- As most of the files of this project are stored with Git LFS, please use the command 'git lfs clone https://github.com/Tensorer/GANs.git' to download this project to local.
 
 "GANs_environment.yaml" 
 - Conda environment.
